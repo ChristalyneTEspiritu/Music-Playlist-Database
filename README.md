@@ -1,8 +1,9 @@
 # Music Playlist Database
 
-Team name: All Start
+Team name: All Star 
+
 Team Members:
 
-Joshua Venecario
-Manuel Jan Maverick Sevilla
-Christalyne Epiritu
+Joshua Venecario \
+Manuel Jan Maverick Sevilla \
+Christalyne Epiritu \
